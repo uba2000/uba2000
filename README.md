@@ -1,6 +1,4 @@
 [![MasterHead](https://user-images.githubusercontent.com/53186139/152284302-1c5c2b9c-13a0-4ac5-9442-37a539bb0d95.png)](https://https://github.com/uba2000)
-
-<h1 align="center">Hi 👋, I'm Uba Noel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
 
