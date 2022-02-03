@@ -1,4 +1,4 @@
-[![MasterHead](https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqa1BzWTVCUHVJQ0dsNHBOaXB2QkM1RXJVdy1Yd3xBQ3Jtc0tueERucmx4SXI5WUJaQ2x5NDMxaldoUkkzUUFNZFZyRldkXzgtMUhnVUVYem1xeTYtNVpLNFBHQlUtZXpOZy1IdFRNdTlwdjhIcHptYk1GZ0s5RksyR3U4M3gxbTZpbmdnWklQTTNNaDNNMHJ1LWhMOA&q=https%3A%2F%2F1.bp.blogspot.com%2F-7A4WynwLsMw%2FXbBpCXG8fHI%2FAAAAAAAAMt4%2FuOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ%2Fs1600%2F2000_600px.gif)](https://https://github.com/uba2000)
+[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://https://github.com/uba2000)
 <h1 align="center">Hi 👋, I'm Uba Noel</h1>
 <h3 align="center">A passionate frontend developer from Nigeria</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/926537/screenshots/4502924/media/18181eb39eec9784db256e246954adba.gif">
