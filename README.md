@@ -4,7 +4,7 @@
 
 ## about me
 
-- i'm currently learning aws services
+- i'm currently learning aws services and advanced data structures
 - you can reach me via **ubanoel2000@gmail.com**
 - i'm a creative
 
